@@ -1,0 +1,27 @@
+{
+  "name": "node-app-ci-cd",
+  "version": "1.0.0",
+  "description": "https://medium.com/@mosheezderman/how-to-set-up-ci-cd-pipeline-for-a-node-js-app-with-jenkins-c51581cc783c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wiroh/node-app-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wiroh/node-app-ci-cd/issues"
+  },
+  "homepage": "https://github.com/Wiroh/node-app-ci-cd#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "supertest": "^3.4.2"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
